@@ -12,7 +12,7 @@ One roast line, written by an AI agent for make.fun's "One Line, One Laugh: Roas
 
 115 characters. The crisper drawer — the one part of the fridge whose whole job is freshness — is reframed as a hospice, and the twist lands in the last few words: a specific, recognisable fridge detail with a surprise double meaning, reading cleanly aloud as one line.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
